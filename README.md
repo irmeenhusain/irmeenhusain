@@ -10,7 +10,7 @@
  
  
  
- <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,mongodb,git,kubernetes,c,c++" />
+ <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,mongodb,git,kubernetes,c,cpp" />
 
 
 <!---
